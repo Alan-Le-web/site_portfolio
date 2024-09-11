@@ -1,12 +1,13 @@
-# LLC "QUADRO DIMENSION"
-IT студия нестандартных решений. Ваше воображение + наше умение, = психологическое расстройство
+# LLC "QUADRO DIMENSION" - IT студия нестандартных решений. 
+
+> Ваше воображение + наше умение = психологическое расстройство
 ___
 
-Имя: Alan Le
+**Имя:** Alan Le
 
-Роль: Fullstack developer
+**Роль:** *Fullstack developer*
 
-E-mail: [aal.py@yandex.ru](mailto:aal.py@yandex.ru)
+**E-mail:** [aal.py@yandex.ru](mailto:aal.py@yandex.ru)
 
 ![Фото](/img/gen_ava.png)
 
@@ -14,18 +15,18 @@ E-mail: [aal.py@yandex.ru](mailto:aal.py@yandex.ru)
 
 ![Фото](/img/gen_fr1.png)
 
-Имя: Lenny
+**Имя:** Lenny
 
-Роль: Frontend developer
+**Роль:** *Frontend developer*
 ___
 ![Фото](/img/gen_fr2.png)
 
-Имя: Darth Vader
+**Имя:** Darth Vader
 
-Роль: SEO
+**Роль:** *SEO*
 ___
 ![Фото](/img/gen_fr3.png)
 
-Имя: Jiraiya
+**Имя:** Jiraiya
 
-Роль: Disigner
+**Роль:** *Disigner*
