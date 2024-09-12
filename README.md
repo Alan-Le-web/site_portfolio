@@ -34,4 +34,4 @@
 
 ___
 
-[© 2024, LLC "QUADRO DIMENSION". Все права защищены] (https://alan-le-web.github.io/site_portfolio/)
+© 2024, [LLC "QUADRO DIMENSION"](https://alan-le-web.github.io/site_portfolio/) Все права защищены.
