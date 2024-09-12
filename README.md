@@ -31,3 +31,7 @@
 **Имя:** Jiraiya
 
 **Роль:** *Disigner*
+
+___
+
+[© 2024, LLC "QUADRO DIMENSION". Все права защищены] (https://alan-le-web.github.io/site_portfolio/)
